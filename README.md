@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mingjie Wang
-- 💞️ I joined UIC, led by Dr. Weijia Jia, as a Mphil student.
+- 💞️ I joined UIC, led by Prof. Weijia Jia, as a Master of Philosophy student.
 - ⚡ I will join JoinQuant as a quantitative researcher after graduation in 23 years.
 - 👀 I’m interested in Federated Learning, Financial Deep Learning and NLP.
 - 👯 I’m always open to meaningful collaborations for research and competitions.
