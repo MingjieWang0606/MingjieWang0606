@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Mingjie Wang
-- 💞️ I joined UIC, led by Prof. Weijia Jia, as a Master of Philosophy student.
-- ⚡ I will join JoinQuant as a quantitative researcher after graduation in 23 years.
-- 👀 I’m interested in Federated Learning, Financial Deep Learning and NLP.
-- 👯 I’m always open to meaningful collaborations for research and competitions.
-
+👋 Hi, I'm Mingjie Wang
+💞️ I'm a proud graduate of UIC, where I studied under Prof. Weijia Jia and earned my Master of Philosophy degree.
+⚡ I'm currently working as a quantitative researcher at {JoinQuant}[https://www.joinquant.com/view/algorithm/fundraising].
+👀 My areas of interest include Federated Learning, Financial Deep Learning, and NLP.
+👯 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions.
 
 <!---
 MingjieWang0606/MingjieWang0606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
