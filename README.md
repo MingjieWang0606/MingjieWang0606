@@ -2,7 +2,7 @@
 💞️ I'm a proud graduate of [UIC](https://www.uic.edu.cn/), where I studied under FIEEE Prof. Weijia Jia and earned my Master of Philosophy degree.  
 ⚡ I'm currently working as a quantitative researcher at [JoinQuant](https://www.joinquant.com/view/algorithm/fundraising).  
 👀 My areas of interest include Federated Learning, Financial Deep Learning, and NLP.  
-👩‍💻 Find me on [Google Scholar](https://scholar.google.com.hk/citations?user=CiADs9sAAAAJ&hl=zh-CN) and [Kaggle](https://www.kaggle.com/xiaowangiiiii) for insights and fun! 
+👩‍💻 Find me on [Google Scholar](https://scholar.google.com.hk/citations?user=CiADs9sAAAAJ&hl=zh-CN) and [Kaggle](https://www.kaggle.com/xiaowangiiiii) for insights and fun!   
 👯 I warmly welcome the opportunity for meaningful collaborations, be it in research or competitions.  
 
 
