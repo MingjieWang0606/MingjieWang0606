@@ -1,5 +1,5 @@
 👋 Hi, I'm Mingjie Wang  
-💞️ I'm a proud graduate of [UIC](https://www.uic.edu.cn/), where I studied under FIEEE Prof. Weijia Jia and earned my MPhil degree.  
+💞️ I'm a proud graduate of UIC, where I studied under FIEEE Prof. Weijia Jia and earned my MPhil degree.  
 ⚡ I'm currently working as a quantitative researcher, Beijing, China.  
 👀 My areas of interest include Federated Learning, Financial Deep Learning, and NLP.  
 👩‍💻 Find me on [Google Scholar](https://scholar.google.com.hk/citations?user=CiADs9sAAAAJ&hl=zh-CN), [Linkedin](https://www.linkedin.com/in/mingjie-wang-bbab30198/) and [Kaggle](https://www.kaggle.com/xiaowangiiiii) for insights and fun!   
